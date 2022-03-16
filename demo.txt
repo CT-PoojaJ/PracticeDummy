@@ -1,1 +1,2 @@
 added new file in main
+Made some changes to check diff command
